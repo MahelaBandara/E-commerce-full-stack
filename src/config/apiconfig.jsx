@@ -1,6 +1,6 @@
 import axios from "axios"
 
-export const API_BASE_URL = "https://mahela-e-commerce-server-production-c61f.up.railway.app"
+export const API_BASE_URL = "https://mahela-e-commerce-full-stack.vercel.app"
 const jwt = localStorage.getItem("jwt");
 
 export const api = axios.create({
