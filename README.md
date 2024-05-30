@@ -1,7 +1,7 @@
 # Full stack project
 
 # E-commerce paltform for online Clothing and Accessories sale
-<img src="img/6.png" width="300" />
+<img src="img/6.png" />
 
 # user services,Order services,Cart services
 https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/5.png?raw=true
