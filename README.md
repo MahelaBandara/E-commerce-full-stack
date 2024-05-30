@@ -4,17 +4,17 @@
 <img src="img/6.png" />
 
 # user services,Order services,Cart services
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/5.png?raw=true
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/7.png?raw=true
+<img src="img/5.png" />
+<img src="img/7.png" />
 
 # Razorpay-payment gateway
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/10.png?raw=true
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/9.png?raw=true
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/8.png?raw=true
+<img src="img/10.png" />
+<img src="img/9.png" />
+<img src="img/8.png" />
 
 # Frontend is deployed in Vercel
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/4.png?raw=true
+<img src="img/4.png" />
 
 # Backend is deployed in Railway
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/2.png?raw=true
-https://github.com/MahelaBandara/E-commerce-full-stack/blob/main/img/3.png?raw=true
+<img src="img/2.png" />
+<img src="img/3.png" />
