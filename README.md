@@ -1,5 +1,5 @@
 # Full stack project
-# Hosted URL - https://mahela-e-commerce-full-stack.vercel.app/
+# Hosted URL - https://mahela-e-commerce-full-stack.vercel.app
 
 # E-commerce paltform for online Clothing and Accessories sale
 <img src="img/6.png" />
